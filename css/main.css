@@ -44,6 +44,9 @@ body {
 .animal-button :hover {
     background-color: #017736;
 }
+.animal-buttton :onclick{
+    background-color: #017736;
+}
 .box {
     display: grid;
     color: #fff;
